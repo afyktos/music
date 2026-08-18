@@ -1,6 +1,5 @@
 # Afyktos — Music
 
-Compact music portfolio designed to mirror the finished Art & Design site.
+Official portfolio site for Afyktos.
 
-Upload `index.html`, `styles.css`, `script.js`, `README.md` and the `assets` folder
-to the root of the GitHub `music` repository.
+© 2026 Afyktos. All rights reserved. Artwork, visual assets, music-related materials and site presentation may not be reproduced or redistributed without permission.

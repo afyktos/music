@@ -1,5 +1,7 @@
 # Afyktos — Music
 
-Official portfolio site for Afyktos.
+Official music production portfolio, selected collaborations, releases and licensing.
 
-© 2026 Afyktos. All rights reserved. Artwork, visual assets, music-related materials and site presentation may not be reproduced or redistributed without permission.
+**Live:** https://afyktos.github.io/music/
+
+© 2026 Afyktos. All rights reserved. Artwork, visual assets and original portfolio materials may not be reproduced, redistributed or reused without permission.

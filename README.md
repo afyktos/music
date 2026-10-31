@@ -2,6 +2,6 @@
 
 Official music portfolio for Afyktos — independent music production, releases, collaborations, remixes and beat licensing.
 
-**Live:** https://afyktos.github.io/music/
+**Live:** https://afyktos.com/music/
 
 © Afyktos. All rights reserved.
